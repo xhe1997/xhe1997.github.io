@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am a biostatistics PhD student at the [BIOS department](https://sph.emory.edu/departments/bios/index.html) of Emory University. I am working with [Dr. Razieh Nabi](https://raziehnabi.com), and my research interest is focused on causal mediation analysis and semiparametric statistics. 
+I am a biostatistics PhD student at the [BIOS department](https://sph.emory.edu/departments/bios/index.html) of Emory University. I am mentored by [Dr. Razieh Nabi](https://raziehnabi.com), and my research interest is focused on causal mediation analysis and semiparametric statistics. 
 
 
 
