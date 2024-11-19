@@ -6,9 +6,6 @@
 
 main:
 
-  - title: "About"
-    url: /aboutme/
-
   - title: "Publications"
     url: /publications/
 
@@ -29,6 +26,9 @@ main:
     
   - title: "CV"
     url: /cv/
-    
+
+  - title: "About"
+    url: /aboutme/
+  
   # - title: "Guide"
   #   url: /markdown/
