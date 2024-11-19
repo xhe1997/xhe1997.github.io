@@ -5,6 +5,8 @@ permalink: /aboutme/
 author_profile: true
 ---
 
+My CV is to be posted here. 
+
 
 Education
 ------
